@@ -1,6 +1,6 @@
 # JP2-converter
 
-## Установка
+## Requirements
 
 pip install pillow
 
